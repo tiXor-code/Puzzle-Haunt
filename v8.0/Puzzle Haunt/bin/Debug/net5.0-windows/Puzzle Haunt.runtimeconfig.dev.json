@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tixor\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tixor\\.nuget\\packages",
+      "G:\\Apps\\Microsoft\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+    ]
+  }
+}

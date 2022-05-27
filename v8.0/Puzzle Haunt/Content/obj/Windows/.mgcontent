@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Backgrounds/Attic/Attic_1.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Backgrounds/Attic/Attic_2.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Backgrounds/Attic/Attic_3.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Backgrounds/Attic/Attic_4.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Backgrounds/Attic/Attic_5.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Backgrounds/Chapel/Chapel_1.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Backgrounds/Chapel/Chapel_2.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Backgrounds/Corridor/Corridor_1.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Backgrounds/Corridor/Corridor_2.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Backgrounds/Corridor/Corridor_3.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Backgrounds/Corridor/Corridor_4.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Backgrounds/Corridor/Corridor_5.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Backgrounds/EndGameBackground/backgroundEndGame.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Backgrounds/Laundry/Laundry_1.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Backgrounds/Laundry/Laundry_2.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Backgrounds/Laundry/Laundry_3.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Backgrounds/PatientRoom/PatientRoom_1.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Backgrounds/PatientRoom/PatientRoom_2.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Backgrounds/PatientRoom/PatientRoom_3.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Ghost/ghost_1.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Ghost/ghost_2.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Ghost/ghost_3.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Ghost/ghost_4.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Ghost/ghost_5.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Ghost/ghost_6.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Ghost/ghost_7.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/idleLeft/idleLeft_1.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/idleLeft/idleLeft_2.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/idleLeft/idleLeft_3.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/idleLeft/idleLeft_4.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/idleLeft/idleLeft_5.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/idleLeft/idleLeft_6.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/idleLeft/idleLeft_7.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/idleLeft/idleLeft_8.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/idleLeft/idleLeft_9.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/idleRight/idleRight_1.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/idleRight/idleRight_2.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/idleRight/idleRight_3.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/idleRight/idleRight_4.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/idleRight/idleRight_5.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/idleRight/idleRight_6.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/idleRight/idleRight_7.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/idleRight/idleRight_8.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/idleRight/idleRight_9.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/interact/interact_1.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/interact/interact_2.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/interact/interact_3.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/interact/interact_4.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/interact/interact_5.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/moveLeft/moveLeft_1.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/moveLeft/moveLeft_2.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/moveLeft/moveLeft_3.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/moveLeft/moveLeft_4.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/moveLeft/moveLeft_5.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/moveLeft/moveLeft_6.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/moveLeft/moveLeft_7.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/moveLeft/moveLeft_8.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/moveLeft/moveLeft_9.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/moveRight/moveRight_1.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/moveRight/moveRight_2.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/moveRight/moveRight_3.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/moveRight/moveRight_4.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/moveRight/moveRight_5.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/moveRight/moveRight_6.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/moveRight/moveRight_7.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/moveRight/moveRight_8.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Characters/Player/moveRight/moveRight_9.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Notes/NotesOnFloor/noteOnFloor_1.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Notes/NotesOnFloor/noteOnFloor_2.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Notes/NotesOnFloor/noteOnFloor_3.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Notes/NotesOnFloor/noteOnFloor_4.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Notes/NotesOnFloor/noteOnFloor_5.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Notes/NotesOnScreen/noteOnScreen_1.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Notes/NotesOnScreen/noteOnScreen_2.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Notes/NotesOnScreen/noteOnScreen_3.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/Notes/NotesOnScreen/noteOnScreen_4.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/UI/Menu/background.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/UI/Menu/BackgroundWithButtons.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/UI/Menu/buttonControls.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/UI/Menu/buttonNewGame.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/UI/Menu/buttonOptions.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/UI/Menu/buttonQuit.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/UI/Menu/Font.spritefont</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/UI/Torch/torch_1.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/UI/Torch/torch_2.png</File>
+    <File>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/Submission/Me Team_COMP3451_GamePrototype/v8.0/Puzzle Haunt/Content/Assets/UI/Torch/torch_3.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

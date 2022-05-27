@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/v5.0/Puzzle Haunt/Content/Assets/Player/moveLeft/moveLeft_3.png</SourceFile>
+  <SourceTime>2022-04-16T12:37:45.5147194+01:00</SourceTime>
+  <DestFile>G:/University of Worcester/Third Year/COMP3451 Advanced Game Design &amp; Engineering/Milestones/4Game Prototype/v5.0/Puzzle Haunt/Content/bin/Windows/Content/Assets/Player/moveLeft/moveLeft_3.xnb</DestFile>
+  <DestTime>2022-04-21T16:25:34.5223001+01:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2020-08-10T17:17:54+01:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2020-08-10T17:17:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>255,0,255,255</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>MakeSquare</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Color</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
